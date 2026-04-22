@@ -23,7 +23,7 @@ The goal was to create an interactive dashboard that could highlight customer be
 
 - Automated visualizations reducing dependency on manual reporting.
 
-✅** Outcomes**
+✅**Outcomes**
 
 - Improved decision-making efficiency by 30% through clear visualization of trends.
 
